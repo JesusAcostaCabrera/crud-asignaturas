@@ -3,12 +3,12 @@ Modulo Asignaturas
 
 **Miembros Equipo:**
 
-*Francisco Mesa
-*Jesús Acosta
-*José Durán
-*Román Vigouroux
-*Sebastián Mercado
-*Eros Bencosme
+* Francisco Mesa
+* Jesús Acosta
+* José Durán
+* Román Vigouroux
+* Sebastián Mercado
+* Eros Bencosme
 
 # Objetivo
 
