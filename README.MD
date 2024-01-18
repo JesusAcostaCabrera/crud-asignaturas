@@ -3,7 +3,12 @@ Modulo Asignaturas
 
 **Miembros Equipo:**
 
-*TEST1* *TEST2* *TEST3* *TEST4* *TEST5* *TEST6*
+*Francisco Mesa
+*Jesús Acosta
+*José Durán
+*Román Vigouroux
+*Sebastián Mercado
+*Eros Bencosme
 
 # Objetivo
 
